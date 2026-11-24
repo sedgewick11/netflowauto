@@ -1,2 +1,4 @@
 #google
 google.com, pub-8956537326014032, DIRECT, f08c47fec0942fa0
+# meta
+facebook.com, 1886689779380460, DIRECT, c3e20eee3f780d68
